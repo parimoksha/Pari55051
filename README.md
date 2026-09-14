@@ -50,7 +50,7 @@
 [![Map Stats](https://img.shields.io/endpoint?url=https://mapsterpiece.vercel.app/api/badge&style=for-the-badge&labelColor=1e1e1e&color=3ba55c)](https://mapsterpiece.vercel.app/api/getMapSVG?theme=light)
 <br>
 <!-- STATS -->
-![Weekly Stats](https://img.shields.io/badge/Weekly%20Visitors-Last%20week:%201%20new%20visit%20from%201%20country.-blue?style=for-the-badge&labelColor=222)
+![Weekly Stats](https://img.shields.io/badge/Weekly%20Visitors-Last%20week:%200%20new%20visits%20from%200%20countries.-blue?style=for-the-badge&labelColor=222)
 <!-- /STATS -->
 
 
